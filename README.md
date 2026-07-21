@@ -162,8 +162,7 @@ The `screenshots/` directory includes:
 
 ## 👨‍💻 Author
 
-**Irtaza Hyder**
-Machine Learning Intern at CodeAlpha
+**Laeeque Liaquat**
 Bachelor of Science in Computer Science (BSCS)
 
 ---
